@@ -1,0 +1,1 @@
+train_data/rec/test/word_171.jpg	9.04	0.9392651319503784
